@@ -1,0 +1,10 @@
+C:\Users\petra\Documents\myPong\bin\Debug\myPong.exe.config
+C:\Users\petra\Documents\myPong\bin\Debug\myPong.exe
+C:\Users\petra\Documents\myPong\bin\Debug\myPong.pdb
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.csprojAssemblyReference.cache
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.Form1.resources
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.Properties.Resources.resources
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.csproj.GenerateResource.cache
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.exe
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.pdb
+C:\Users\petra\Documents\myPong\obj\Debug\myPong.csproj.CoreCompileInputs.cache
